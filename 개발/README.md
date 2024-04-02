@@ -61,6 +61,16 @@
 - [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 - [Jotai 동작원리 파헤치기](https://byjuun.com/post/159)
 - [의존성 관리자는 의존성을 관리하지 않습니다](https://velog.io/@surim014/dependency-managers-dont-manage-your-dependencies?utm_source=substack&utm_medium=email)
+- [KakaoStyle Jotai 레시피](https://devblog.kakaostyle.com/ko/2022-01-13-2-jotai-recipe/)
+- [데이터가 없을 때 200인가 404인가](https://techblog.yogiyo.co.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%97%86%EC%9D%84-%EB%95%8C-200%EC%9D%B8%EA%B0%80-404%EC%9D%B8%EA%B0%80-f1c8c39ca9df)
+- [Korean FE article 태그 모음](https://spicy-lace-142.notion.site/844cd73f347743609129bafc407068fe)
+- [Virtual DOM - Diffing 알고리즘을 구현하고 이해하기](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165601&searchData=&subIndex=)
+- [라프텔 로그인/회원가입 개선기](https://laftel.oopy.io/fae79aa5-07a3-4998-8c06-7e9bef69c25d)
+- [지속가능한 컴포넌트](https://www.youtube.com/watch?v=fR8tsJ2r7Eg)
+- [리액트 쿼리 '잘' 사용해보자 - 네트워크 비용 감소 / UX 개선](https://heycoding.tistory.com/128)
+- [Javascript 동작원리 (Single thread, Event loop, Asynchronous)](https://medium.com/@vdongbin/javascript-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-single-thread-event-loop-asynchronous-e47e07b24d1c)
+- [GitNation](https://portal.gitnation.org/)
+- [Typehero](https://typehero.dev/)
 
 ## Java
 
@@ -97,6 +107,8 @@
 - [카카오톡 Java App Server Refactoring 후기](https://tech.kakao.com/2023/01/19/kakaotalk-java-app-server-refactoring)
 - [Java JVM과 메모리 그리고 GC의 동작 과정 이해](https://brewagebear.github.io/fundamental-jvm-memory/#step-21-%EC%8A%A4%ED%83%9D-%EC%98%81%EC%97%AD)
 - [Stream API 병렬 데이터 처리하기](https://catsbi.oopy.io/0428be55-8c8d-40a2-923a-acc738d74a14)
+- [Coroutine 은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139?category=973476)
+- [스프링에서 코틀린 스타일 테스트 코드 작성하기](https://techblog.woowahan.com/5825/)
 
 ## Python
 
@@ -137,6 +149,7 @@
 ## 언어 기타
 
 - [Rust Project – Create an Authentication Server](https://www.freecodecamp.org/news/rust-tutorial-authentication-server/?ref=dailydev)
+- [파스칼(Pascal) 비난과 멸시, 그 원형을 찾아서...](https://saksin.tistory.com/1001)
 
 ## 언어 비교
 

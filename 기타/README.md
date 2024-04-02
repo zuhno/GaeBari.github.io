@@ -48,6 +48,8 @@
 - [컴퓨팅 사고와 개발 실력 늘리는 공부법](https://yozm.wishket.com/magazine/detail/1950/)
 - [개발자에게 컴퓨터 과학 기초가 중요한 이유](https://f-lab.kr/blog/importance-of-computer-science)
 - [이벤트 스토밍, 어떻게 하는 것이고 왜 해야 하나요?](https://blog.doctor-cha.com/event-storming-how-and-why)
+- [여기어때 서비스개발팀 2022년을 되돌아 보다](https://techblog.gccompany.co.kr/%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C%ED%8C%80-2022%EB%85%84%EC%9D%84-%EB%90%98%EB%8F%8C%EC%95%84-%EB%B3%B4%EB%8B%A4-b08ca7e8887e)
+- [[번역]더 이상 배우려 하지 않는 개발자 : Expert Beginner의 등장](https://medium.com/@jwyeom63/%EB%8D%94-%EC%9D%B4%EC%83%81-%EB%B0%B0%EC%9A%B0%EB%A0%A4-%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-expert-beginner%EC%9D%98-%EB%93%B1%EC%9E%A5-dd40c40aeedf)
 
 ## 미분류
 
@@ -64,6 +66,8 @@
 - [[토스페이먼츠]좋은 객체 ID(Object ID) 만들기](https://velog.io/@tosspayments/%EC%A2%8B%EC%9D%80-%EA%B0%9D%EC%B2%B4-IDObject-ID-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - [모델 서빙 최적화를 위한 프레임워크 선정과 서빙 성능 극대화하기](https://tech.kakaopay.com/post/model-serving-framework/)
 - [설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
+- [Express.js Spam PRs Incident Highlights the Commoditization of Open Source Contributions](https://socket.dev/blog/express-js-spam-prs-commoditization-of-open-source)
+- [[카카오] 라이브채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109)
 
 ## Git
 

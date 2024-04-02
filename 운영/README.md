@@ -71,6 +71,9 @@
 - [LINE 오픈챗 서버가 100배 급증하는 트래픽을 다루는 방법](https://engineering.linecorp.com/ko/blog/how-line-openchat-server-handles-extreme-traffic-spikes)
 - [Nginx and Let’s Encrypt with Docker](https://pentacent.medium.com/nginx-and-lets-encrypt-with-docker-in-less-than-5-minutes-b4b8a60d3a71)
 - [MSA 환경에서 네트워크 예외를 잘 다루는 방법](https://tech.kakaopay.com/post/msa-transaction/)
+- [MSA 환경에서의 유연한 HTTP 클라이언트 설계 전략](https://tech.kakaopay.com/post/make-http-client-design-flexible/)
+- [2024년 쿠버네티스 표준 아키텍처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2024)
+- [Argo-CD를 이용한 GitOps 시스템 구축](https://jennifersoft.com/ko/blog/tech/2023-08-30-jennifer-kubernetes-3/)
 
 ## AWS
 
@@ -93,6 +96,7 @@
 - [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 - [AWS를 활용한 확장성 높은 모바일 트레이딩 시스템 (MTS) 구축하기](https://aws.amazon.com/ko/blogs/tech/aws-mts-scalability-mobile-trading-system/)
 - [ConsoleMe: 스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
+- [Amazon DynamoDB 비용 최적화 방법 살펴보기](https://aws.amazon.com/ko/blogs/tech/how-to-optimize-amazon-dynamodb-costs/)
 
 ## Observability
 
