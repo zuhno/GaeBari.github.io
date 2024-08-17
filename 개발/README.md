@@ -71,6 +71,7 @@
 - [Javascript 동작원리 (Single thread, Event loop, Asynchronous)](https://medium.com/@vdongbin/javascript-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC-single-thread-event-loop-asynchronous-e47e07b24d1c)
 - [GitNation](https://portal.gitnation.org/)
 - [Typehero](https://typehero.dev/)
+- [토스가 꿈꾸는 React Native 기술의 미래](https://toss.tech/article/react-native-2024)
 
 ## Java
 
@@ -109,6 +110,7 @@
 - [Stream API 병렬 데이터 처리하기](https://catsbi.oopy.io/0428be55-8c8d-40a2-923a-acc738d74a14)
 - [Coroutine 은 어떻게 스레드 작업을 최적화 하는가?](https://kotlinworld.com/139?category=973476)
 - [스프링에서 코틀린 스타일 테스트 코드 작성하기](https://techblog.woowahan.com/5825/)
+- [DTO-Free Java](https://medium.com/@bubu.tripathy/dto-free-java-ee70c43b5ad5)
 
 ## Python
 
@@ -119,6 +121,7 @@
 - [FastAPI Depends 톺아보기](https://rumbarum.oopy.io/post/how-fastapi-depends-work)
 - [ExceptionGroup and except\*(PEP-654) 파보기 Feat. TaskGroup](https://rumbarum.oopy.io/post/python-exception-group)
 - [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
+- [Class의 연산자, 특수 메서드, 상속, 그리고 pydantic](https://devocean.sk.com/blog/techBoardDetail.do?ID=164774&boardType=techBlog)
 
 ## Go
 
